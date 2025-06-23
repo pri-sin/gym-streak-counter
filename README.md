@@ -15,5 +15,6 @@ Easy to customize and extend
 # Why Use It?
 Consistency is key in fitness, and this streak counter turns your workouts into a fun and rewarding habit by visually tracking your progress. Perfect for anyone who wants a simple tool to stay motivated and accountable!
 
-# Deployed with netlify at https://illustrious-pastelito-650f29.netlify.app/
+# Live Demo 
+_https://gym-streak-counter.netlify.app/_
 
